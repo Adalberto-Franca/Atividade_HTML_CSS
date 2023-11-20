@@ -1,0 +1,100 @@
+html {
+    background-color: rgb(185, 185, 185);
+}
+
+h1 {
+    color: black;
+    font-size: 50pt;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: gray;
+    margin: 0px;
+    padding: 15pt;
+}
+
+h2{
+    color: black;
+    font-size: 30pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+    color: black(240, 230, 230);
+    font-size: 20pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h4{
+    font-size: 20pt;
+    padding-left: 5pt;
+}
+
+p {
+    color: black;
+    font-size: 15pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#legiao_img{
+    width: 220px ;
+    height: 170px;
+    float: left;
+    padding-right: 10pt;
+}
+
+#Paralamas_img{
+    width: 240px ;
+    height: 200px;
+    float: left;
+    padding-right: 10pt;
+}
+
+#Titas_img{
+    float: left;
+    padding-right: 10pt;
+}
+
+.nome{
+    font-style: italic;
+    color: rgb(4, 4, 107);
+}
+
+footer{
+    float: right; 
+}
+
+label {
+    color: black;
+}
+
+article{
+    padding-left: 40px ;
+    padding-right: 80px;
+}
+
+header{
+    width: 100%;
+
+}
+
+#conteudo {
+    display: flex;
+}
+
+main{
+    background-color: white;
+    width: 60%;
+
+}
+
+#l_esquerdo{
+    width: 20%;
+}
+
+#l_direito{
+    width: 20%;
+}
+
+#pl_direito{
+    font-size: 15pt;
+    padding-left: 5pt;
+}
